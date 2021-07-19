@@ -1,0 +1,1 @@
+latent factor with with train_init 0.6 and train_rem 0.4
